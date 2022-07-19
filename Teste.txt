@@ -13,3 +13,9 @@ Cursos de Cloud
 
 - S3
     - Manipule e armazene objetos na nuvem
+
+- Amazon Elastic Beanstalk
+    - Container Docker
+
+- Amazon ECS
+    - Gerencie Docker na nuvem
