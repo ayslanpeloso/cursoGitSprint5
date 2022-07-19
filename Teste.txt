@@ -1,6 +1,6 @@
 TÍTULO
 
-- Lista - Cursos
+- Lista - Cursos:
 
     - Descricao A
 
@@ -8,7 +8,7 @@ TÍTULO
     
     - Descricao 3
 
-- Cursos de Linux
+- Cursos de Linux:
 
     - Linux I
         - Conhecendo e Utilizando o Terminal
@@ -22,7 +22,7 @@ TÍTULO
     - Shell Script II
         - Fazendo monitoramento
         
-- Cursos de Cloud
+- Cursos de Cloud:
 
     - EC2
         - Faça um deploy de sua webapp
