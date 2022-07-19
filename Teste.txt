@@ -1,6 +1,6 @@
 TÍTULO
 
-Curso da Alura.
+Lista de Cursos
 
 - Descricao A
 - Descricao 2
