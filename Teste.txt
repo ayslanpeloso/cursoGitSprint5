@@ -1,6 +1,6 @@
 TÍTULO
 
-Arquivo de teste do curso de Git e GitHub completo.
+Arquivo de teste do curso da Alura.
 
 - Descricao A
 - Descricao 2
