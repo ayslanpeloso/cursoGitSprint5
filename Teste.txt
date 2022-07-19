@@ -1,10 +1,12 @@
 TÍTULO
 
-Lista - Cursos
+- Lista - Cursos
 
-- Descricao A
-- Descricao 2
-- Descricao 3
+    - Descricao A
+
+    - Descricao 2
+    
+    - Descricao 3
 
 - Cursos de Linux
 
@@ -13,19 +15,26 @@ Lista - Cursos
 
     - Linux II
         - Programas, Processos e Pacotes
-Cursos de Cloud
 
-- EC2
-    - Faça um deploy de sua webapp
+    - Shell Script I
+        - Começando seus Scripts
 
-- S3
-    - Manipule e armazene objetos na nuvem
+    - Shell Script II
+        - Fazendo monitoramento
+        
+- Cursos de Cloud
 
-- Amazon Elastic Beanstalk
-    - Container Docker
+    - EC2
+        - Faça um deploy de sua webapp
 
-- Amazon ECS
-    - Gerencie Docker na nuvem
+    - S3
+        - Manipule e armazene objetos na nuvem
 
-- Google Cloud
-    - Deploy de uma Aplicação em Spring MVC
+    - Amazon Elastic Beanstalk
+        - Container Docker
+
+    - Amazon ECS
+        - Gerencie Docker na nuvem
+
+    - Google Cloud
+        - Deploy de uma Aplicação em Spring MVC
