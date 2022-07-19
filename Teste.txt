@@ -1,6 +1,6 @@
 TÍTULO
 
-Arquivo de teste do curso da Alura.
+Curso da Alura.
 
 - Descricao A
 - Descricao 2
