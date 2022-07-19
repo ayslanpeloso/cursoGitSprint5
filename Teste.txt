@@ -5,3 +5,11 @@ Lista de Cursos
 - Descricao A
 - Descricao 2
 - Descricao 3
+
+Cursos de Cloud
+
+- EC2
+    - Faça um deploy de sua webapp
+
+- S3
+    - Manipule e armazene objetos na nuvem
