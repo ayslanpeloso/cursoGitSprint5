@@ -19,3 +19,6 @@ Cursos de Cloud
 
 - Amazon ECS
     - Gerencie Docker na nuvem
+
+- Google Cloud
+    - Deploy de uma Aplicação em Spring MVC
