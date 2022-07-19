@@ -1,6 +1,6 @@
 TÍTULO
 
-Arquivo de teste do curso de Git da Sprint 5.
+Arquivo de teste do curso de Git.
 
 - Descricao A
 - Descricao 2
