@@ -1,6 +1,6 @@
 TÍTULO
 
-Arquivo de teste do curso de Git.
+Arquivo de teste do curso de Git e GitHub completo.
 
 - Descricao A
 - Descricao 2
