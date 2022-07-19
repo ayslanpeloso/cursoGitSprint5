@@ -1,6 +1,6 @@
 TÍTULO
 
-Lista de Cursos
+Lista - Cursos
 
 - Descricao A
 - Descricao 2
