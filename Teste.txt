@@ -5,3 +5,11 @@ Lista de Cursos
 - Descricao A
 - Descricao 2
 - Descricao 3
+
+- Cursos de Linux
+
+    - Linux I
+        - Conhecendo e Utilizando o Terminal
+
+    - Linux II
+        - Programas, Processos e Pacotes
